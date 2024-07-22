@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @NoobRobloxdev
+- 👀 I’m interested in programming and apk dev
+- 🌱 I’m currently learning Java
+- 💞️ I’m currently making apps for my Discord server
+- 📫 How to reach me Gmail:vondranoob233@gmail.com
+- 😄 Pronouns: Him/He
+- ⚡ Fun fact: My discord server was founded in 2023 by noobroblox_official (My discord username) with chipo_chapa
+- discord: https://discord.gg/HdMCnyKUKF
+- Noob Science Inc. Founder
+- Helper of Water Science and Miwjhi science
+- All aps are for Windows!!!
+
