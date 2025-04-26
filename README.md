@@ -12,3 +12,7 @@ Third: Run it and play with the Win SIM
 Not fninished lol
 
 Some easter eggs there
+
+ABOUT ME:
+SOURCE PROGRAMMER 
+Dont have discord but tiktok yes (Its lom_noob)
