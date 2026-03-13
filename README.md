@@ -1,18 +1,30 @@
-## WINDOWS SIMULATOR
-IS OUT
+# Hi there, I'm LOM_Noob 👋
 
-OPEN SOURCE CODE
+### 🚀 Roblox Developer | Python Programmer | Open Source Enthusiast
 
-Fork it or play with that
+I am a passionate game developer specializing in **Roblox Studio** and a programmer since 2022. I love building simulators, exploring operating system logic, and sharing my source code with the community.
 
-To run, you need Python Library Installed
-Second: in the folder there is RUN.bat
-Third: Run it and play with the Win SIM
+---
 
-Not fninished lol
+## 💻 What I'm Working On
+- 🪟 **Windows Simulator**: A Python-based recreation of the Windows experience. (It's out now—check the repo!)
+- 🏎️ **My Summer Babetta**: Official open-source code for my vehicle-based projects.
+- 🛠️ **Roblox Studio**: Constantly creating and refining games under **Noob Science Inc.**
 
-Some easter eggs there
+## 🛠️ My Tech Stack
+* **Languages:** Python, C++, Luau (Roblox), Java
+* **Tools:** Roblox Studio, VS Code, Git, MSYS64.
+* **Focus:** Game Mechanics, OS Simulation, Open Source Tooling, idk just a hobby
 
-ABOUT ME:
-SOURCE PROGRAMMER 
-Dont have discord but tiktok yes (Its lom_noob)
+## 📊 My Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoobRobloxdev&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoobRobloxdev&layout=compact&theme=dark)
+
+---
+
+## 🔗 Connect With Me
+* **Roblox Group:** [Noob Science Inc.](https://www.roblox.com/groups/33698099/Noob-Science-Inc#!/about)
+* **TikTok:** [@lom_noob](https://www.tiktok.com/@lom_noob)
+* **Location:** Trenčín, Slovakia 🇸🇰
+
+> "Not finished lol... but there are some easter eggs in there." — On Windows Simulator
