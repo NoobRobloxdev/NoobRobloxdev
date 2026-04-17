@@ -1,8 +1,8 @@
 # Hi there, I'm LOM_Noob 👋
 
-### 🚀 Roblox Developer | Python Programmer | Open Source Enthusiast
+### 🚀 Roblox Developer | Python Programmer | Open Source Enthusiast | C++ Programmer
 
-I am a passionate game developer specializing in **Roblox Studio** and a programmer since 2022. I love building simulators, exploring operating system logic, and sharing my source code with the community.
+I am a passionate game developer specializing in **Roblox Studio** and a programmer since 2024. I love building simulators, exploring operating system logic, and sharing my source code with the community.
 
 ---
 
