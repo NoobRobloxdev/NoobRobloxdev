@@ -12,7 +12,7 @@ I am a passionate game developer specializing in **Roblox Studio** and a program
 - 🛠️ **Roblox Studio**: Constantly creating and refining games under **Noob Science Inc.**
 
 ## 🛠️ My Tech Stack
-* **Languages:** Python, C++, Luau (Roblox), Java
+* **Languages:** Python, C++, Luau (Roblox), Java, Batchfile (if it recognised as a Programming Language), .NET, C, HTML, JavaScript, CSS
 * **Tools:** Roblox Studio, VS Code, Git, MSYS64.
 * **Focus:** Game Mechanics, OS Simulation, Open Source Tooling, idk just a hobby
 
