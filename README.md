@@ -7,13 +7,13 @@ I am a passionate game developer specializing in **Roblox Studio** and a program
 ---
 
 ## 💻 What I'm Working On
-- 🪟 **Windows Simulator**: A Python-based recreation of the Windows experience. (It's out now—check the repo!)
-- 🏎️ **My Summer Babetta**: Official open-source code for my vehicle-based projects.
+- 🪟 **Lonos**: LONOS is a Assembly Operating System, work in disc.
+- 🏎️ **My Summer Babetta**: Official open-source code for my vehicle-based projects, Based on C++.
 - 🛠️ **Roblox Studio**: Constantly creating and refining games under **Noob Science Inc.**
 
 ## 🛠️ My Tech Stack
-* **Languages:** Python, C++, Luau (Roblox), Java, Batchfile (if it recognised as a Programming Language), .NET, C, HTML, JavaScript, CSS
-* **Tools:** Roblox Studio, VS Code, Git, MSYS64.
+* **Languages:** Python, C++, Luau (Roblox), Java, Batchfile (if it recognised as a Programming Language), .NET, C, HTML, JavaScript, CSS, C
+* **Tools:** Roblox Studio, VS Code, Git, MSYS64, Git.
 * **Focus:** Game Mechanics, OS Simulation, Open Source Tooling, idk just a hobby
 
 ## 📊 My Stats
@@ -28,4 +28,4 @@ I am a passionate game developer specializing in **Roblox Studio** and a program
 * **TikTok:** [@lom_noob](https://www.tiktok.com/@lom_noob)
 * **Location:** Trenčín, Slovakia 🇸🇰
 
-> "Not finished lol... but there are some easter eggs in there." — On Windows Simulator
+> "Best Delevoped Game is My Summer Babetta" - LOM_Noob
